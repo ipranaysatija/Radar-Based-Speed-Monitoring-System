@@ -91,8 +91,8 @@ Integrating a camera with Doppler radar systems can transform them into advanced
 This integration enhances functionality, making radar systems more effective for traffic safety and smart city initiatives.
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/4e564670-61c2-417d-9377-3c7129382916" alt="OPS234 Radar" height="200">
-   <img src="https://github.com/user-attachments/assets/2d08de6d-ad10-42da-a7e0-5d5a566748d5" alt="OPS234 Radar" height="200">
+   <img src="https://github.com/user-attachments/assets/4e564670-61c2-417d-9377-3c7129382916" alt="OPS234 Radar" height="300">
+   <img src="https://github.com/user-attachments/assets/2d08de6d-ad10-42da-a7e0-5d5a566748d5" alt="OPS234 Radar" height="300">
 </p>
 
 <p align="center">
