@@ -50,7 +50,9 @@ ft: Transmitted frequency
 ## Project Flow
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac7cff65-5d71-429b-af72-a6b93fdd038b" alt="OPS234 Radar" height="100">
+  <img src="https://github.com/user-attachments/assets/ac7cff65-5d71-429b-af72-a6b93fdd038b" alt="OPS234 Radar" height="500">
 </p>
+
+
 
 
