@@ -99,9 +99,40 @@ This integration enhances functionality, making radar systems more effective for
    **Setting Up Camera Module**
 </p>
 
+## Installation
+Creating Workspace
+```bash
+  cd /Desktop
+  mkdir workspace
+  
+```
+Cloning The Repository
+```bash
+  cd workspace
+  git clone <Repo URL>
+```
+Test Runing the Python file
+```bash
+  python3 final.py
+```
+## Setting up Boot Launch
 
-
-
+Making the file executable
+```bash
+  sudo chmod +x ~/Desktop/workspace/final.py
+```
+Putting the comand in bashrc
+```bash
+  sudo gedit ~/.bashrc
+```
+add the following line at the end of the file
+```bash
+  python3 final.py
+```
+now finalize the setup by
+```bash
+  source ~/.bashrc
+```
 
 ## Documentation
 
@@ -110,3 +141,9 @@ This integration enhances functionality, making radar systems more effective for
 [Link To Drive](https://drive.google.com/drive/folders/11kEGkJQ02AlQVz_A3B6SeS6CdDjEDEry?usp=drive_link)
 
 [Link To PPTX](unavailable)
+
+## Acknowledgements
+
+ - [Doppler Effect Concept](https://www.scienceabc.com/pure-sciences/ambulance-police-siren-sound-different-passes.html)
+ - [Seting up Raspberryi Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+ - [Launch On Boot](https://help.ubuntu.com/stable/ubuntu-help/startup-applications.html.en)
