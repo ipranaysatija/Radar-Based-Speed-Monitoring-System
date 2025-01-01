@@ -134,6 +134,13 @@ now finalize the setup by
   source ~/.bashrc
 ```
 
+
+## Acknowledgements
+
+ - [Doppler Effect Concept](https://www.scienceabc.com/pure-sciences/ambulance-police-siren-sound-different-passes.html)
+ - [Seting up Raspberryi Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+ - [Launch On Boot](https://help.ubuntu.com/stable/ubuntu-help/startup-applications.html.en)
+
 ## Documentation
 
 [Link To Website](https://radar-speed-kgcv.vercel.app/)
@@ -141,9 +148,3 @@ now finalize the setup by
 [Link To Drive](https://drive.google.com/drive/folders/11kEGkJQ02AlQVz_A3B6SeS6CdDjEDEry?usp=drive_link)
 
 [Link To PPTX](unavailable)
-
-## Acknowledgements
-
- - [Doppler Effect Concept](https://www.scienceabc.com/pure-sciences/ambulance-police-siren-sound-different-passes.html)
- - [Seting up Raspberryi Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
- - [Launch On Boot](https://help.ubuntu.com/stable/ubuntu-help/startup-applications.html.en)
