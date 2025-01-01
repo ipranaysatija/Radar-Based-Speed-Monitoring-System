@@ -52,6 +52,12 @@ ft: Transmitted frequency
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ac7cff65-5d71-429b-af72-a6b93fdd038b" alt="OPS234 Radar" height="500">
 </p>
+## Live Speed Detection
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4aa04e0-1e4a-4bc8-9725-cc78146c72b9" alt="OPS234 Radar" height="500">
+</p>
+
 
 
 
