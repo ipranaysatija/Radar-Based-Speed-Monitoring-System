@@ -40,7 +40,10 @@ Using the Doppler shift formula:
 </p>
 
 ​v: Speed of the vehicle
+
 c: Speed of light (constant)
+
 ft: Transmitted frequency
+
 Δf: Frequency shift
 
