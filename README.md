@@ -73,13 +73,6 @@ ft: Transmitted frequency
 
 
 
-## Documentation
-
-[Link To Website](https://radar-speed-kgcv.vercel.app/)
-
-[Link To Drive](https://drive.google.com/drive/folders/11kEGkJQ02AlQVz_A3B6SeS6CdDjEDEry?usp=drive_link)
-
-[Link To PPTX](unavailable)
 
 ## Future Scope
 
@@ -103,10 +96,17 @@ This integration enhances functionality, making radar systems more effective for
 </p>
 
 <p align="center">
-  **Setting Up Camera Module**
+   **Setting Up Camera Module**
 </p>
 
 
 
 
 
+## Documentation
+
+[Link To Website](https://radar-speed-kgcv.vercel.app/)
+
+[Link To Drive](https://drive.google.com/drive/folders/11kEGkJQ02AlQVz_A3B6SeS6CdDjEDEry?usp=drive_link)
+
+[Link To PPTX](unavailable)
