@@ -22,6 +22,7 @@ When an ambulance passes by, the siren's pitch is higher as it approaches and lo
 <p align="center">
   <img src="https://github.com/user-attachments/assets/81d7020b-d103-4514-9ad1-65eefe27bd1f" alt="OPS234 Radar" height="200">
 </p>
+
 ## Application in Speed Measurement
 In the context of radar speed measurement:
 
@@ -37,5 +38,9 @@ Using the Doppler shift formula:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a476a25-28bc-4e65-b30e-38fdd95e805c" alt="OPS234 Radar" height="100">
 </p>
-​
+
+​v: Speed of the vehicle
+c: Speed of light (constant)
+ft: Transmitted frequency
+Δf: Frequency shift
 
