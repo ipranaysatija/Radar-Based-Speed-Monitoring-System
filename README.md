@@ -59,14 +59,53 @@ ft: Transmitted frequency
   <img src="https://github.com/user-attachments/assets/a4aa04e0-1e4a-4bc8-9725-cc78146c72b9" alt="OPS234 Radar" height="500">
 </p>
 <p align="center">
-  Live speed detection and Updation on the server
+  **Live speed detection and Updation on the server**
 </p>
+
+
 <p align="center">
    <img src="https://github.com/user-attachments/assets/ee7ae25f-21fe-4395-9618-d1a9e76d2847" alt="OPS234 Radar" height="500">
 </p>
+
 <p align="center">
-  Data can be reviewed on the site
+  **Data can be reviewed on the site**
 </p>
+
+
+
+## Documentation
+
+[Link To Website](https://radar-speed-kgcv.vercel.app/)
+
+[Link To Drive](https://drive.google.com/drive/folders/11kEGkJQ02AlQVz_A3B6SeS6CdDjEDEry?usp=drive_link)
+
+[Link To PPTX](unavailable)
+
+## Future Scope
+
+Integrating a camera with Doppler radar systems can transform them into advanced traffic management tools. Key enhancements include:
+
+**1. Automated Speed Enforcement:** Identify vehicles exceeding speed limits and issue penalties using number plate recognition.
+
+**2. Real-Time Monitoring:** Detect stolen vehicles and manage traffic congestion efficiently.
+
+**3. Data Analytics:** Gather insights for urban planning and monitor vehicle trends.
+
+**4. Smart City Integration:** Enable IoT connectivity and AI-based traffic predictions.
+
+**5. Legal and Regulatory Uses:** Streamline toll collection, insurance claims, and accident investigations.
+
+This integration enhances functionality, making radar systems more effective for traffic safety and smart city initiatives.
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/4e564670-61c2-417d-9377-3c7129382916" alt="OPS234 Radar" height="200">
+   <img src="https://github.com/user-attachments/assets/2d08de6d-ad10-42da-a7e0-5d5a566748d5" alt="OPS234 Radar" height="200">
+</p>
+
+<p align="center">
+  **Setting Up Camera Module**
+</p>
+
 
 
 
